@@ -1,0 +1,15 @@
+{
+	"name": "pipdfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35619d51-3e33-44f0-91f3-98fce44ba283",
+		"tenantId": "4557dbcc-f3ba-4560-bc2c-42db2ac3b1b8"
+	}
+}
